@@ -56,7 +56,8 @@ def weinbergMessage():
 def ourMessages():
 
   # Weinberg's function is called and printed here:
-  print(weinbergMessage())
+ 
+  # Each of you should also print and call your functions here.
 
 
 #This will call the ourMessages function.
