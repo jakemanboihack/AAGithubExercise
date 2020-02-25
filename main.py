@@ -44,6 +44,13 @@ print("Your task is to take this file, add a function in the space below that re
 
 #*************************************#
 
+# Extra Student's function goes here
+def extraFunction():
+  return "This student doesn't even go here."
+
+
+#*************************************#
+
 # Weinberg's function goes here:
 
 
@@ -57,6 +64,7 @@ def ourMessages():
 
   # Weinberg's function is called and printed here:
   print(weinbergMessage())
+  print(extraFunction())
   # Each of you should also print and call your functions here.
 
 
