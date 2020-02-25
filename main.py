@@ -48,7 +48,7 @@ print("Your task is to take this file, add a function in the space below that re
 
 
 def weinbergMessage():
-  return "Weinberg is in charge around here. He should probably sweep the floor."
+  return "Weinberg is in charge around here. He should probably sweep the floor. Especially since Mr. Phu isn't here. :("
 
 
 #*************************************#
@@ -56,7 +56,7 @@ def weinbergMessage():
 def ourMessages():
 
   # Weinberg's function is called and printed here:
- 
+  print(weinbergMessage())
   # Each of you should also print and call your functions here.
 
 
