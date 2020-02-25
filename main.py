@@ -28,7 +28,8 @@ print("Your task is to take this file, add a function in the space below that re
 
 # Jaden's function goes here:
 
-
+def jadenMessage():
+   return "I ate a sandwich for lunch :)"
 
 #*************************************#
 
@@ -66,7 +67,7 @@ def ourMessages():
   print(weinbergMessage())
   print(extraFunction())
   # Each of you should also print and call your functions here.
-
+  print (jadenMessage())
 
 #This will call the ourMessages function.
 ourMessages()
