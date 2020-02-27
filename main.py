@@ -3,8 +3,9 @@ print("Your task is to take this file, add a function in the space below that re
 
 
 # Hina's function goes here:
-
-
+def hinaMessage():
+   ''' This function returns a message from hina '''
+   return 'yay life'
 
 #*************************************#
 
@@ -70,6 +71,7 @@ def ourMessages():
   # Each of you should also print and call your functions here.
   print (jadenMessage())
   print(namMessage())
+  print(hinaMessage())
 
 #This will call the ourMessages function.
 ourMessages()
