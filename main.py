@@ -42,7 +42,8 @@ def jadenMessage():
 #*************************************#
 
 # Tung's function goes here
-
+def tungMessage():
+   return "I hate corona :("
 
 
 #*************************************#
@@ -71,6 +72,7 @@ def ourMessages():
   # Each of you should also print and call your functions here.
   print (jadenMessage())
   print(namMessage())
+  print(tungMessage())
   print(hinaMessage())
 
 #This will call the ourMessages function.
