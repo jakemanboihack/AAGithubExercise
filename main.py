@@ -37,7 +37,8 @@ def jadenMessage():
 
 # Jake's function goes here:
 
-
+def functionJake():
+   return "Hello world"
 
 #*************************************#
 
