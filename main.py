@@ -37,7 +37,8 @@ def jadenMessage():
 
 # Jake's function goes here:
 
-
+def jakeMessage():
+   return "jake was here"
 
 #*************************************#
 
@@ -74,6 +75,7 @@ def ourMessages():
   print(namMessage())
   print(tungMessage())
   print(hinaMessage())
+  print(jakeMessage())
 
 #This will call the ourMessages function.
 ourMessages()
